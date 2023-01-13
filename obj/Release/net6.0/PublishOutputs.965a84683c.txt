@@ -1,0 +1,11 @@
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/LamzonJ-AllForOneApi
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/appsettings.Development.json
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/appsettings.json
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/LamzonJ-AllForOneApi.dll
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/LamzonJ-AllForOneApi.deps.json
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/LamzonJ-AllForOneApi.runtimeconfig.json
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/LamzonJ-AllForOneApi.pdb
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/Microsoft.OpenApi.dll
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
