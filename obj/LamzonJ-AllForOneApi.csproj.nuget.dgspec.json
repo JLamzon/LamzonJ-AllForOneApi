@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj": {}
+    "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/LamzonJ-AllForOneDay4/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj": {
+    "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/LamzonJ-AllForOneDay4/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj",
+        "projectUniqueName": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/LamzonJ-AllForOneDay4/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj",
         "projectName": "LamzonJ-AllForOneApi",
-        "projectPath": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj",
+        "projectPath": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/LamzonJ-AllForOneDay4/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/obj/",
+        "outputPath": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/LamzonJ-AllForOneDay4/LamzonJ-AllForOneApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

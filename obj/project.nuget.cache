@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ogzQEKhTCVVwnyAbof/MaW9U0Py9zF1NUV2jeDtFlwQx5CllzJJcs9A752qsLDZkXV43Hbt4WXvBTB8z1kVIiw==",
+  "dgSpecHash": "nJY4AeFwz2qHVCZuj6PwuQl2lFWUf+CliyFGTb1TYu/UWQXKp4Lqp3SFJFGTBqagvdamVDYWzjKDq/6sZZPfvg==",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/AllForOne/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj",
+  "projectFilePath": "/Users/user/Documents/CodeStack/Class/LVL2/Assignments/LamzonJ-AllForOneDay4/LamzonJ-AllForOneApi/LamzonJ-AllForOneApi.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

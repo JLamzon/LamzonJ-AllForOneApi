@@ -450,32 +450,6 @@ public class StudentDirectoryController : ControllerBase
         }
 
         [HttpGet]
-        [Route("GetStudentBySlackName/{studentSlack}")]
-        public StudentListModel GetStudentBySlackName(string studentSlack)
-        {
-            StudentListModel result = new StudentListModel(){
-                firstName = "N/A",
-                lastName  = "N/A",
-                slackName = "N/A",
-                email = "N/A",
-                hobbies = "N/A"
-            };
-
-            for(int i = 0; i < studentsList.Count; i++)
-            {
-                // condition to check the studentlist firstname to our variable firstname
-
-                if(studentsList[i].email == studentSlack)
-                {
-                    result = studentsList[i];
-                    break;
-                }
-            }
-
-            return result;
-        }
-
-        [HttpGet]
         [Route("GetStudentByHobbies/{studentHobbies}")]
         public StudentListModel GetStudentByHobbies(string studentHobbies)
         {
